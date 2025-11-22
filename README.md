@@ -35,13 +35,7 @@ Clicking on an image smoothly expands it into focus, giving a stylish and intera
 ## 🌍 Live Demo
 
 🔗 GitHub Pages Link:
-( Add your live hosted link here )
-
----
-
-## 📸 Preview
-
-( Add any screenshots here )
+(https://gauravchhetri1.github.io/Expanding-Image-Gallery/)
 
 ---
 
