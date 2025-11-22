@@ -1,6 +1,6 @@
 # 📸 Expanding Image Gallery
 
-A clean and modern **Expanding Image Gallery** created using **HTML, CSS, and JavaScript**.
+A clean and modern **Expanding Image Gallery** created using **HTML, and CSS**.
 Clicking on an image smoothly expands it into focus, giving a stylish and interactive gallery experience.
 
 ---
@@ -18,7 +18,6 @@ Clicking on an image smoothly expands it into focus, giving a stylish and intera
 
 * **HTML**
 * **CSS**
-* **JavaScript**
 
 ---
 
@@ -28,23 +27,8 @@ Clicking on an image smoothly expands it into focus, giving a stylish and intera
 /
 ├── index.html
 ├── style.css
-├── script.js
 └── README.md
 ```
-
----
-
-## ▶️ How to Run Locally
-
-1. Clone the repository:
-
-   ```
-   git clone https://github.com/your-username/Expanding-Image-Gallery.git
-   ```
-
-2. Open the project folder.
-
-3. Run the `index.html` file in your browser.
 
 ---
 
